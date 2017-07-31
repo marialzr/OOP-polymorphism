@@ -24,8 +24,8 @@ given genre, if the user chooses next, the application will again show the first
 - Delete a movie from the watch list, after the user watched the movie.
 - See the watch list.  Store your movie watch listin a file. When the application starts, the user should choose the type of file (CSV or HTML). Depending on this type, the application should save the list in the correct format. Add a new command, allowing the user to see the movie watch list.
 Displaying the list means opening the saved file (csv or html) with the correct application:
-* CSV file – with Notepad, Notepad++, Microsoft Excel or OpenOffice Calc
-* HTML file – with a browser
+  * CSV file – with Notepad, Notepad++, Microsoft Excel or OpenOffice Calc
+  * HTML file – with a browser
 
 
 The application provides a UML diagram for your entire application.
